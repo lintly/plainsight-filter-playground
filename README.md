@@ -1,4 +1,4 @@
-# *Plainsight Filter Development Playground
+# *Plainsight Filter Development Playground*
 This is my playground for all open source development against the Plainsight Vision AI filters.
 
 This project is a test for using Plainsight with my 2 RTSP cameras.
